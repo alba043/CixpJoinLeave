@@ -1,6 +1,6 @@
 name: CixpJoinLeave
 version: 1.0.0
-main: com.cixp.joinleave.CixpJoinLeave
+main: com.alba.CixpJoinLeave
 api-version: "1.21"
 author: cixp
 description: Custom join and leave messages with PlaceholderAPI support
