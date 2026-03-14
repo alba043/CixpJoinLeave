@@ -2,7 +2,6 @@ package com.alba.utils;
 
 import com.alba.CixpJoinLeave;
 import net.kyori.adventure.text.Component;
-import net.kyori.adventure.text.format.TextColor;
 import net.kyori.adventure.text.serializer.legacy.LegacyComponentSerializer;
 import org.bukkit.ChatColor;
 import org.bukkit.configuration.file.FileConfiguration;

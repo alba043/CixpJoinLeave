@@ -5,13 +5,13 @@ api-version: "1.21"
 author: cixp
 description: Custom join and leave messages with PlaceholderAPI support
 
-softdepend: [PlaceholderAPI]
+softdepend: [ PlaceholderAPI ]
 
 commands:
   cixpjoinleave:
     description: Main command for CixpJoinLeave plugin
     usage: /cixpjoinleave reload
-    aliases: [cjl]
+    aliases: [ cjl ]
 
 permissions:
   cixpjoinleave.reload:
